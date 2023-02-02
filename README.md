@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning Web Development and other programming languages
 
-- 📫 How to reach me **enrico.franke@fruchtec.de**
+- 📫 How to reach me **Enrico__Franke@outlook.de**
 
 - ⚡ Fun fact :- Food and Traveling are the reasons to live.
 
